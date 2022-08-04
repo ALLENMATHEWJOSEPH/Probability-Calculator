@@ -38,5 +38,3 @@ probability = experiment(hat=hat,
 Since this is based on random draws, the probability will be slightly different each time the code is run.
 
 <br>
-
-[FreeCodeCamp](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/probability-calculator)
